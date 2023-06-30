@@ -1,6 +1,6 @@
 baseurl = 'https://dai08srhg.github.io/portfolio/'
 DefaultContentLanguage = "en"
-title = "Beautiful Hugo"
+title = "HOME 🐈"
 theme = "beautifulhugo"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
@@ -12,9 +12,9 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Build a beautiful and simple website in minutes"
-  mainSections = ["post","posts"]
+  homeTitle = "DaisukeFukushima"
+  subtitle = "₍˄·͈༝·͈˄₎ ₍˄·͈༝·͈˄₎ ₍˄·͈༝·͈˄₎ฅ˒˒"
+  mainSections = ["page"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
@@ -45,72 +45,36 @@ pygmentsCodefencesGuessSyntax = true
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "Some Person"
+  name = "Fukushima"
   website = "yourwebsite.com"
-  email = "youremail@domain.com"
-  facebook = "username"
-  github = "username"
-  gitlab = "username"
-  bitbucket = "username"
-  twitter = "username"
-  reddit = "username"
-  linkedin = "username"
-  xing = "username"
-  stackoverflow = "users/XXXXXXX/username"
-  snapchat = "username"
-  instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  soundcloud = "username"
-  spotify = "username"
-  bandcamp = "username"
-  itchio = "username"
-  vk = "username"
-  paypal = "username"
-  telegram = "username"
-  500px = "username"
-  codepen = "username"
-  mastodon = "url"
-  kaggle = "username"
-  weibo = "username"
-  slack = "username"
-  medium = "username"
-  discord = "invite code (https://discord.gg/XXXXXXX)"
-  strava = "userid"
-
-[[menu.main]]
-    name = "Blog"
-    url = ""
-    weight = 1
+  github = "dai08srhg"
+  twitter = "@igx63je2"
+  linkedin = "fukushima-ab"
 
 [[menu.main]]
     name = "About"
     url = "page/about/"
-    weight = 3
-
-[[menu.main]]
-    identifier = "samples"
-    name = "Samples"
-    weight = 2
-
-[[menu.main]]
-    parent = "samples"
-    name = "Big Image Sample"
-    url = "post/2017-03-07-bigimg-sample"
     weight = 1
 
 [[menu.main]]
-    parent = "samples"
-    name = "Math Sample"
-    url = "post/2017-03-05-math-sample"
+    identifier = "contents"
+    name = "contents"
     weight = 2
 
 [[menu.main]]
-    parent = "samples"
-    name = "Code Sample"
-    url = "post/2016-03-08-code-sample"
-    weight = 3
+    parent = "contents"
+    name = "tech post"
+    url = "post/"
+    weight = 1
 
 [[menu.main]]
-    name = "Tags"
-    url = "tags"
+    parent = "contents"
+    name = "paper database"
+    url = "https://juicy-cookie-078.notion.site/Paper-Database-ff354caa71fb42f9b196d203c9dcf587?pvs=4"
+    weight = 2
+
+[[menu.main]]
+    parent = "contents"
+    name = "₍˄·͈༝·͈˄₎ฅ˒˒"
+    url = "gallary/gallary"
     weight = 3
