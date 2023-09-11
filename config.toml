@@ -57,24 +57,23 @@ pygmentsCodefencesGuessSyntax = true
     weight = 1
 
 [[menu.main]]
-    identifier = "contents"
-    name = "contents"
+    name = "tech post"
+    url = "post/"
     weight = 2
 
 [[menu.main]]
-    parent = "contents"
-    name = "tech post"
-    url = "post/"
-    weight = 1
+    identifier = "contents"
+    name = "contents"
+    weight = 3
 
 [[menu.main]]
     parent = "contents"
     name = "paper database"
     url = "https://juicy-cookie-078.notion.site/Paper-Database-ff354caa71fb42f9b196d203c9dcf587?pvs=4"
-    weight = 2
+    weight = 1
 
 [[menu.main]]
     parent = "contents"
     name = "₍˄·͈༝·͈˄₎ฅ˒˒"
     url = "gallary/gallary"
-    weight = 3
+    weight = 2
