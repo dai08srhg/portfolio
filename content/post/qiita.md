@@ -3,7 +3,7 @@ title: Qiita
 date: 2023-07-17
 ---
 
-{{<qiita link="https://qiita.com/dai08srhg/items/1b69d9db1a7094718e00">}}
+{{<qiita link="https://qiita.com/dai08srhg/items/e656c0c0f0d28fe7632f">}}
 
 {{<qiita link="https://qiita.com/dai08srhg/items/1b69d9db1a7094718e00">}}
 
