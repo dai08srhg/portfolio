@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>http://localhost:1313/portfolio/post/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <atom:link href="http://localhost:1313/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0. 自己紹介</title>
+      <link>http://localhost:1313/portfolio/post/self_intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/post/self_intro/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;氏名：福島大祐&lt;/li&gt;&#xA;&lt;li&gt;生年月日：1995-07-13&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;統計学, 材料工学, 機械学習全般に興味があります.&lt;br&gt;&#xA;猫が好きです.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1. 経歴</title>
+      <link>http://localhost:1313/portfolio/post/biography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/post/biography/</guid>
+      <description>&lt;h6 id=&#34;職歴&#34;&gt;職歴&lt;/h6&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;SUPWAT, inc.&lt;/strong&gt; (2023-01 ~)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;機械学習エンジニア&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;MicroAd, inc.&lt;/strong&gt; (2020-04 ~)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;機械学習エンジニア&lt;/li&gt;&#xA;&lt;li&gt;データサイエンスユニット・マネージャー&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h6 id=&#34;学歴&#34;&gt;学歴&lt;/h6&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;名古屋工業大学大学院 工学研究科 情報工学専攻 (2018-04 ~ 2020-03)&lt;br&gt;&#xA;博士前期課程修了：修士（工学）&lt;/li&gt;&#xA;&lt;li&gt;金沢大学 理工学域 電子情報学科 (2014-04 ~ 2018-03)&lt;br&gt;&#xA;卒業：学士(理学)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2. 業績・発表</title>
+      <link>http://localhost:1313/portfolio/post/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/post/publication/</guid>
+      <description>&lt;h6 id=&#34;出版物&#34;&gt;出版物&lt;/h6&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Noriaki Hashimoto, &lt;strong&gt;Daisuke Fukushima&lt;/strong&gt;, Ryoichi Koga, Yusuke Takagi, Kaho Ko, Kei Kohno, Masato Nakaguro, Shigeo Nakamura, Hidekata Hontani, Ichiro Takeuchi, &lt;a href=&#34;https://openaccess.thecvf.com/content_CVPR_2020/papers/Hashimoto_Multi-scale_Domain-adversarial_Multiple-instance_CNN_for_Cancer_Subtype_Classification_with_Unannotated_CVPR_2020_paper.pdf&#34;&gt;&amp;ldquo;Multi-scale Domain-adversarial Multiple-instance CNN for Cancer Subtype Classification with Unannotated Histopathological Images&amp;rdquo;, Conference on Computer Vision and Pattern Recognition (2020).&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;福島大祐&lt;/strong&gt;,  古賀諒一,  橋本典明,  黄果葡,  中黒匡人,  高野桂,  中村栄男,  本谷秀堅,  竹内一郎, &lt;a href=&#34;https://ken.ieice.org/ken/paper/20190904N1pi/&#34;&gt;「ドメイン敵対的マルチインスタンス学習を用いた悪性リンパ腫のサブタイプ分類」, 研究報告コンピュータビジョンとイメージメディア (2019)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h6 id=&#34;受賞&#34;&gt;受賞&lt;/h6&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2020年度 MI研究奨励賞 (電気通信情報学会　医用画像研究会)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h6 id=&#34;発表&#34;&gt;発表&lt;/h6&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2024-05-29 人工知能学会(JSAI)2024 インダストリアルセッション 「3rd Party Cookie 規制後の広告配信技術」&lt;/li&gt;&#xA;&lt;li&gt;2019-09-04 医用画像研究会(MI)「ドメイン敵対的マルチインスタンス学習を用いた悪性リンパ腫のサブタイプ分類」&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
