@@ -31,13 +31,14 @@ theme = "hugo-dpsg"
   header = "img/header.jpg" # Header image. Path relative to "static"
   title = "D. Fukushima" # Logo title, otherwise will use site title
   subtitle = "Welcome to my site!" # Logo subtitle
+  favicon = "img/favicon_kohaku.ico"
 
 [Params.sidebar]
   home = "right" # Configure layout for home page
-  list = "left"  # Configure layout for list pages
+  list = "right"  # Configure layout for list pages
   single = false # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["search", "recent", "categories", "taglist", "social"]
+  widgets = ["recent", "categories", "social", "taglist"]
   # alternatively "ddg-search" can be used, to search via DuckDuckGo
   # widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
 
@@ -66,6 +67,6 @@ theme = "hugo-dpsg"
 
 [Params.widgets.social]
   # Enable parts of social widget
-  facebook = ""
+  facebook = "100009883141297"
   linkedin = "fukushima-ab"
   github = "dai08srhg"
