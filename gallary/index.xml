@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gallaries on HOME 🐈</title>
-    <link>https://dai08srhg.github.io/portfolio/gallary/</link>
+    <link>http://localhost:57825/portfolio/gallary/</link>
     <description>Recent content in Gallaries on HOME 🐈</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 25 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dai08srhg.github.io/portfolio/gallary/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 25 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:57825/portfolio/gallary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>₍˄·͈༝·͈˄₎ฅ˒˒</title>
-      <link>https://dai08srhg.github.io/portfolio/gallary/gallary/</link>
+      <link>http://localhost:57825/portfolio/gallary/gallary/</link>
       <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dai08srhg.github.io/portfolio/gallary/gallary/</guid>
-      <description>coming soon</description>
+      <guid>http://localhost:57825/portfolio/gallary/gallary/</guid>
+      <description>&lt;p&gt;coming soon&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
