@@ -34,7 +34,7 @@ scripts_body: # optional: include some literal html just before <body/> tag, e.g
   - 機械学習エンジニア
   - データサイエンスユニット・マネージャー
 
-![代替テキスト](img/ma_sup.png)
+![企業ロゴ](img/ma_sup.png)
 
 ###### 学歴
 - 名古屋工業大学大学院 工学研究科 情報工学専攻 (2018-04 ~ 2020-03)  
