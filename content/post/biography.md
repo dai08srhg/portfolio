@@ -28,9 +28,9 @@ scripts_body: # optional: include some literal html just before <body/> tag, e.g
   - "<!-- -->"
 ---
 ###### 職歴
-- **SUPWAT, inc.** (2023-01 ~)
+- [**SUPWAT, inc.**](https://www.supwat.com/) (2023-01 ~)
   - 機械学習エンジニア
-- **MicroAd, inc.** (2020-04 ~)
+- [**MicroAd, inc.**](https://www.microad.co.jp/) (2020-04 ~)
   - 機械学習エンジニア
   - データサイエンスユニット・マネージャー
 
@@ -38,7 +38,6 @@ scripts_body: # optional: include some literal html just before <body/> tag, e.g
 
 ###### 学歴
 - 名古屋工業大学大学院 工学研究科 情報工学専攻 (2018-04 ~ 2020-03)  
-博士前期課程修了：修士（工学）
+博士前期課程修了：修士 (工学)
 - 金沢大学 理工学域 電子情報学類 (2014-04 ~ 2018-03)  
-卒業：学士(理学)
-
+卒業：学士 (理学)

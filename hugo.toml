@@ -30,7 +30,7 @@ theme = "hugo-dpsg"
   image = "img/IMG_1612.PNG" # Logo image. Path relative to "static"
   header = "img/header.jpg" # Header image. Path relative to "static"
   title = "D. Fukushima" # Logo title, otherwise will use site title
-  subtitle = "Welcome to my site!" # Logo subtitle
+  subtitle = "Welcome to my site! 🐈‍⬛" # Logo subtitle
   favicon = "img/favicon_kohaku.ico"
 
 [Params.sidebar]
