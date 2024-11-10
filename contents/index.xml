@@ -8,11 +8,18 @@
     <language>de</language>
     <atom:link href="https://dai08srhg.github.io/portfolio/contents/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OSS Contribution</title>
+      <link>https://dai08srhg.github.io/portfolio/contents/oss_contribution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dai08srhg.github.io/portfolio/contents/oss_contribution/</guid>
+      <description>&lt;p&gt;WIP&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Qiita</title>
       <link>https://dai08srhg.github.io/portfolio/contents/qiita/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dai08srhg.github.io/portfolio/contents/qiita/</guid>
-      <description>&lt;p&gt;&#xA;&#xA;&lt;iframe src=&#34;https://hatenablog-parts.com/embed?url=https%3a%2f%2fqiita.com%2fdai08srhg&#34;&#xA;    width=&#34;100%&#34;&#xA;    height=&#34;160&#34;&#xA;    frameborder=&#34;0&#34;&#xA;    allowtransparency=&#34;true&#34;&#xA;    allow=&#34;encrypted-media&#34;&gt;&#xA;&lt;/iframe&gt;&#xA;&lt;strong&gt;最近の投稿&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://qiita.com/dai08srhg/items/5d4ac3070bae836aef10&#34;&gt;No-U-Turn Sampler (NUTS) を理解したい&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://qiita.com/dai08srhg/items/eb29442f80bf85bcbfdb&#34;&gt;BoTorchで自作獲得関数を試す&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&amp;hellip;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;個人アカウントで運用しているものです.&#xA;&#xA;&#xA;&lt;iframe src=&#34;https://hatenablog-parts.com/embed?url=https%3a%2f%2fqiita.com%2fdai08srhg&#34;&#xA;    width=&#34;100%&#34;&#xA;    height=&#34;160&#34;&#xA;    frameborder=&#34;0&#34;&#xA;    allowtransparency=&#34;true&#34;&#xA;    allow=&#34;encrypted-media&#34;&gt;&#xA;&lt;/iframe&gt;&#xA;&lt;strong&gt;最近の投稿&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://qiita.com/dai08srhg/items/5d4ac3070bae836aef10&#34;&gt;No-U-Turn Sampler (NUTS) を理解したい&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://qiita.com/dai08srhg/items/eb29442f80bf85bcbfdb&#34;&gt;BoTorchで自作獲得関数を試す&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&amp;hellip;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>技術ブログ</title>
