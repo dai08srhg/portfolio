@@ -59,8 +59,8 @@ theme = "hugo-dpsg"
     weight = 1
 
   [[menu.main]]
-    identifier = "Contents"
-    name = "Contents"
+    identifier = "TechContents"
+    name = "TechContents"
     url = "/contents/"
     weight = 2
 

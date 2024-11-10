@@ -1,6 +1,6 @@
 ---
 # Common-Defined params
-title: "Qiita"
+title: "OSS Contribution"
 description: "description"
 menu: side # Optional, add page to a menu. Options: main, side, footer
 
@@ -10,7 +10,7 @@ thumbnail_alt: "Thumbnail" # alt text for thumbnail image, be screen reader frie
 thumbnail_hide_post: false # Hide thumbnail on single post view
 pager: true # Enable pager navigation (prev/next) for specific page
 toc: true # Enable Table of Contents for specific page
-sidebar: "right" # Enable sidebar (on the right side) per page
+# sidebar: "right" # Enable sidebar (on the right side) per page
 # widgets: # Enable sidebar widgets in given order per page
 #   - "search"
 #   - "recent"
@@ -21,9 +21,4 @@ scripts_head: # optional: include some literal <head> matter, e.g. for page-spec
 scripts_body: # optional: include some literal html just before <body/> tag, e.g. JS initialization; safeHTML-filtered
   - "<!-- -->"
 ---
-個人アカウントで運用しているものです.
-{{<qiita link="https://qiita.com/dai08srhg">}}
-**最近の投稿**
-- [No-U-Turn Sampler (NUTS) を理解したい](https://qiita.com/dai08srhg/items/5d4ac3070bae836aef10)
-- [BoTorchで自作獲得関数を試す](https://qiita.com/dai08srhg/items/eb29442f80bf85bcbfdb)
-- ...
+WIP
