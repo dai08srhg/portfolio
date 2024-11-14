@@ -29,7 +29,7 @@ scripts_body: # optional: include some literal html just before <body/> tag, e.g
 ---
 ###### 職歴
 - [**SUPWAT, inc.**](https://www.supwat.com/) (2023-01 ~)
-  - 機械学習エンジニア
+  - 機械学習エンジニア, リサーチャー
 - [**MicroAd, inc.**](https://www.microad.co.jp/) (2020-04 ~)
   - 機械学習エンジニア
   - データサイエンスユニット・マネージャー
