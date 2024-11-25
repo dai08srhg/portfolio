@@ -22,4 +22,6 @@ scripts_body: # optional: include some literal html just before <body/> tag, e.g
   - "<!-- -->"
 ---
 
-個人的にまとめているものです．[link](https://juicy-cookie-078.notion.site/ff354caa71fb42f9b196d203c9dcf587?pvs=4)
+個人的にまとめているものです．
+
+{{<hatena link="https://juicy-cookie-078.notion.site/ff354caa71fb42f9b196d203c9dcf587?pvs=4">}}

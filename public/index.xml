@@ -12,7 +12,7 @@
       <link>http://localhost:1313/portfolio/post/biography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/portfolio/post/biography/</guid>
-      <description>&lt;h6 id=&#34;職歴&#34;&gt;職歴&lt;/h6&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.supwat.com/&#34;&gt;&lt;strong&gt;SUPWAT, inc.&lt;/strong&gt;&lt;/a&gt; (2023-01 ~)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;機械学習エンジニア, リサーチャー&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.microad.co.jp/&#34;&gt;&lt;strong&gt;MicroAd, inc.&lt;/strong&gt;&lt;/a&gt; (2020-04 ~)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;機械学習エンジニア&lt;/li&gt;&#xA;&lt;li&gt;データサイエンスユニット・マネージャー&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;img/ma_sup.png&#34; alt=&#34;企業ロゴ&#34;&gt;&lt;/p&gt;&#xA;&lt;h6 id=&#34;学歴&#34;&gt;学歴&lt;/h6&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;名古屋工業大学大学院 工学研究科 情報工学専攻 (2018-04 ~ 2020-03)&lt;br&gt;&#xA;博士前期課程修了：修士 (工学)&lt;/li&gt;&#xA;&lt;li&gt;金沢大学 理工学域 電子情報学類 (2014-04 ~ 2018-03)&lt;br&gt;&#xA;卒業：学士 (理学)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h6 id=&#34;職歴&#34;&gt;職歴&lt;/h6&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.supwat.com/&#34;&gt;&lt;strong&gt;SUPWAT, inc.&lt;/strong&gt;&lt;/a&gt; (2023-01 ~ )&#xA;&lt;ul&gt;&#xA;&lt;li&gt;機械学習エンジニア, リサーチャー&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.microad.co.jp/&#34;&gt;&lt;strong&gt;MicroAd, inc.&lt;/strong&gt;&lt;/a&gt; (2020-04 ~ )&#xA;&lt;ul&gt;&#xA;&lt;li&gt;機械学習エンジニア&lt;/li&gt;&#xA;&lt;li&gt;データサイエンスユニット・マネージャー ( ~ 2024-11)&lt;/li&gt;&#xA;&lt;li&gt;業務委託 (2025-01 ~ )&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;img/ma_sup.png&#34; alt=&#34;企業ロゴ&#34;&gt;&lt;/p&gt;&#xA;&lt;h6 id=&#34;学歴&#34;&gt;学歴&lt;/h6&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;名古屋工業大学大学院 工学研究科 情報工学専攻 (2018-04 ~ 2020-03)&lt;br&gt;&#xA;博士前期課程修了：修士 (工学)&lt;/li&gt;&#xA;&lt;li&gt;金沢大学 理工学域 電子情報学類 (2014-04 ~ 2018-03)&lt;br&gt;&#xA;卒業：学士 (理学)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2. 業績・発表</title>
@@ -26,7 +26,7 @@
       <link>http://localhost:1313/portfolio/contents/qiita/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/portfolio/contents/qiita/</guid>
-      <description>&lt;p&gt;個人アカウントで運用しているものです.&#xA;&#xA;&#xA;&lt;iframe src=&#34;https://hatenablog-parts.com/embed?url=https%3a%2f%2fqiita.com%2fdai08srhg&#34;&#xA;    width=&#34;100%&#34;&#xA;    height=&#34;160&#34;&#xA;    frameborder=&#34;0&#34;&#xA;    allowtransparency=&#34;true&#34;&#xA;    allow=&#34;encrypted-media&#34;&gt;&#xA;&lt;/iframe&gt;&#xA;&lt;strong&gt;最近の投稿&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://qiita.com/dai08srhg/items/5d4ac3070bae836aef10&#34;&gt;No-U-Turn Sampler (NUTS) を理解したい&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://qiita.com/dai08srhg/items/eb29442f80bf85bcbfdb&#34;&gt;BoTorchで自作獲得関数を試す&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&amp;hellip;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;個人アカウントで運用しているものです.&#xA;&#xA;&#xA;&lt;iframe src=&#34;https://hatenablog-parts.com/embed?url=https%3a%2f%2fqiita.com%2fdai08srhg&#34;&#xA;    width=&#34;100%&#34;&#xA;    height=&#34;160&#34;&#xA;    frameborder=&#34;0&#34;&#xA;    allowtransparency=&#34;true&#34;&#xA;    allow=&#34;encrypted-media&#34;&gt;&#xA;&lt;/iframe&gt;&#xA;&lt;strong&gt;最近の投稿&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://qiita.com/dai08srhg/items/5a7a43a26abd75f88fdf&#34;&gt;BoTorch v0.12.0からデフォルトになったDim-scaled log-normal priorについて&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://qiita.com/dai08srhg/items/5d4ac3070bae836aef10&#34;&gt;No-U-Turn Sampler (NUTS) を理解したい&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&amp;hellip;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>技術ブログ</title>
@@ -40,7 +40,7 @@
       <link>http://localhost:1313/portfolio/contents/paper_db/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/portfolio/contents/paper_db/</guid>
-      <description>&lt;p&gt;個人的にまとめているものです．&lt;a href=&#34;https://juicy-cookie-078.notion.site/ff354caa71fb42f9b196d203c9dcf587?pvs=4&#34;&gt;link&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;個人的にまとめているものです．&lt;/p&gt;&#xA;&#xA;&#xA;&lt;iframe src=&#34;https://hatenablog-parts.com/embed?url=https%3a%2f%2fjuicy-cookie-078.notion.site%2fff354caa71fb42f9b196d203c9dcf587%3fpvs%3d4&#34;&#xA;    width=&#34;100%&#34;&#xA;    height=&#34;200&#34;&#xA;    frameborder=&#34;0&#34;&#xA;    allowtransparency=&#34;true&#34;&#xA;    allow=&#34;encrypted-media&#34;&gt;&#xA;&lt;/iframe&gt;</description>
     </item>
   </channel>
 </rss>
