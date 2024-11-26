@@ -5,6 +5,10 @@
     </url>
     
     <url>
+      <loc>http://localhost:1313/portfolio/contact/</loc>
+    </url>
+    
+    <url>
       <loc>http://localhost:1313/portfolio/post/biography/</loc>
     </url>
     
