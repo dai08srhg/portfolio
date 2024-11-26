@@ -64,6 +64,12 @@ theme = "hugo-dpsg"
     url = "/contents/"
     weight = 2
 
+  [[menu.main]]
+    identifier = "Contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
+
 
 [Params.widgets.social]
   # Enable parts of social widget
