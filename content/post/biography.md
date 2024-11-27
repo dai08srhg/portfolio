@@ -28,14 +28,21 @@ scripts_body: # optional: include some literal html just before <body/> tag, e.g
   - "<!-- -->"
 ---
 ###### 職歴
-- [**SUPWAT, inc.**](https://www.supwat.com/) (2023-01 ~ )
-  - 機械学習エンジニア, リサーチャー
-- [**MicroAd, inc.**](https://www.microad.co.jp/) (2020-04 ~ )
-  - 機械学習エンジニア
+- [**SUPWAT, inc.**](https://www.supwat.com/) &nbsp; 2023-01 ~ present
+  - 職種: Researcher, MLエンジニア
+  - プロダクトチーム (2025-01 ~ )
+  - 業務委託 ( ~ 2024-12)  
+
+![企業ロゴ](img/log_sup.png)
+- [**MicroAd, inc.**](https://www.microad.co.jp/)  &nbsp; 2020-04 ~ present
+  - 職種: MLエンジニア
   - データサイエンスユニット・マネージャー ( ~ 2024-11)
   - 業務委託 (2025-01 ~ )
 
-![企業ロゴ](img/ma_sup.png)
+![企業ロゴ](img/log_ma.png)
+
+
+<img width="70%" src="img/ma_sup.png">
 
 ###### 学歴
 - 名古屋工業大学大学院 工学研究科 情報工学専攻 (2018-04 ~ 2020-03)  
