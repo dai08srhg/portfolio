@@ -18,7 +18,7 @@ theme = "hugo-dpsg"
   post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
   mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
   dateformat = "02.01.2006" # Change the format of dates
-  favicon = "img/favicon_kohaku.ico"
+  favicon = "/img/favicon_kohaku.ico"
 
 [Params.Author] # Used in authorbox
   name = ""
@@ -31,7 +31,6 @@ theme = "hugo-dpsg"
   header = "img/header.jpg" # Header image. Path relative to "static"
   title = "D. Fukushima" # Logo title, otherwise will use site title
   subtitle = "Welcome to my site! 🐈‍⬛🐈" # Logo subtitle
-  favicon = "img/favicon_kohaku.ico"
 
 [Params.sidebar]
   home = "right" # Configure layout for home page
