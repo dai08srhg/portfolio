@@ -1,8 +1,10 @@
 ---
 # Common-Defined params
-title: "1. 経歴"
+title: "経歴"
 description: "description"
 menu: footer # Optional, add page to a menu. Options: main, side, footer
+
+weight: 1
 
 # Theme-Defined params
 authorbox: false
@@ -41,8 +43,6 @@ scripts_body: # optional: include some literal html just before <body/> tag, e.g
 
 ![企業ロゴ](img/log_ma.png)
 
-
-<img width="70%" src="img/ma_sup.png">
 
 ###### 学歴
 - 名古屋工業大学大学院 工学研究科 情報工学専攻 (2018-04 ~ 2020-03)  
