@@ -1,8 +1,10 @@
 ---
 # Common-Defined params
-title: "2. 業績・発表"
+title: "業績・発表"
 # description: "description"
 menu: footer # Optional, add page to a menu. Options: main, side, footer
+
+weight: 2
 
 # Theme-Defined params
 authorbox: false
