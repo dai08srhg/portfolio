@@ -4,23 +4,20 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Contents - </title>
+	<title> - </title>
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="">
 		
 		<meta property="og:url" content="http://localhost:1313/portfolio/contents/">
-  <meta property="og:title" content="Contents">
   <meta property="og:description" content="Welcome to my site!">
   <meta property="og:locale" content="de">
   <meta property="og:type" content="website">
 
 		
-  <meta itemprop="name" content="Contents">
   <meta itemprop="description" content="Welcome to my site!">
 		
 		
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Contents">
   <meta name="twitter:description" content="Welcome to my site!">
 
 
@@ -85,10 +82,41 @@
 	<div class="container wrapper flex">
 		<div class="primary">
 		
-<main class="main list" role="main">
-	<header class="main__header">
-		<h1 class="main__title">Contents</h1>
-	</header><article class="list__item post">
+<main class="main list" role="main"><article class="list__item post">
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/portfolio/contents/github/" rel="bookmark">
+			GitHub
+			</a>
+		</h2>
+		<div class="list__meta meta"><span class="post-meta">
+  
+  
+  <i class="fas fa-calendar"></i>&nbsp;
+  
+  
+</span>
+</div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		<p><img src="https://github-readme-stats.vercel.app/api?username=dai08srhg&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub Stats"></p>
+<img src="https://ghchart.rshah.org/dai08srhg" />
+<!-- コメント　<ul id="github-achievements"></ul> -->
+<script>
+  fetch('https://api.github.com/users/dai08srhg/repos')
+    .then(response => response.json())
+    .then(data => {
+      const repoList = document.getElementById('github-achievements');
+      data.forEach(repo => {
+        const li = document.createElement('li');
+        li.innerHTML = `<a href="${repo.html_url}" target="_blank">${repo.name}</a>`;
+        repoList.appendChild(li);
+      });
+    });
+</script>
+	</div>
+</article>
+<article class="list__item post">
 	<header class="list__header">
 		<h2 class="list__title post__title">
 			<a href="/portfolio/contents/qiita/" rel="bookmark">
