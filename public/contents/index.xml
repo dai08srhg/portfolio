@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Contents on </title>
+    <title></title>
     <link>http://localhost:1313/portfolio/contents/</link>
-    <description>Recent content in Contents on </description>
+    <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>de</language>
     <atom:link href="http://localhost:1313/portfolio/contents/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub</title>
+      <link>http://localhost:1313/portfolio/contents/github/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/contents/github/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://github-readme-stats.vercel.app/api?username=dai08srhg&amp;amp;show_icons=true&amp;amp;theme=tokyonight&#34; alt=&#34;GitHub Stats&#34;&gt;&lt;/p&gt;&#xA;&lt;img src=&#34;https://ghchart.rshah.org/dai08srhg&#34; /&gt;&#xA;&lt;!-- コメント　&lt;ul id=&#34;github-achievements&#34;&gt;&lt;/ul&gt; --&gt;&#xA;&lt;script&gt;&#xA;  fetch(&#39;https://api.github.com/users/dai08srhg/repos&#39;)&#xA;    .then(response =&gt; response.json())&#xA;    .then(data =&gt; {&#xA;      const repoList = document.getElementById(&#39;github-achievements&#39;);&#xA;      data.forEach(repo =&gt; {&#xA;        const li = document.createElement(&#39;li&#39;);&#xA;        li.innerHTML = `&lt;a href=&#34;${repo.html_url}&#34; target=&#34;_blank&#34;&gt;${repo.name}&lt;/a&gt;`;&#xA;        repoList.appendChild(li);&#xA;      });&#xA;    });&#xA;&lt;/script&gt;</description>
+    </item>
     <item>
       <title>Qiita</title>
       <link>http://localhost:1313/portfolio/contents/qiita/</link>

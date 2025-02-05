@@ -4,3 +4,6 @@
 [submodule "themes/hugo-dpsg"]
 	path = themes/hugo-dpsg
 	url = https://github.com/pfadfinder-konstanz/hugo-dpsg
+[submodule "themes/soho"]
+	path = themes/soho
+	url = https://github.com/alexandrevicenzi/soho.git

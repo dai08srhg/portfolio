@@ -75,3 +75,8 @@ theme = "hugo-dpsg"
   facebook = "100009883141297"
   linkedin = "fukushima-ab"
   github = "dai08srhg"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

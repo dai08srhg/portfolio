@@ -1,6 +1,6 @@
 ---
 # Common-Defined params
-title: "論文庫"
+title: "GitHub"
 description: "description"
 menu: side # Optional, add page to a menu. Options: main, side, footer
 
@@ -22,5 +22,21 @@ scripts_body: # optional: include some literal html just before <body/> tag, e.g
   - "<!-- -->"
 ---
 
-個人的にまとめているものです．
-{{<hatena link="https://juicy-cookie-078.notion.site/ff354caa71fb42f9b196d203c9dcf587?pvs=4">}}
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dai08srhg&show_icons=true&theme=tokyonight)
+
+<img src="https://ghchart.rshah.org/dai08srhg" />
+
+
+<!-- コメント　<ul id="github-achievements"></ul> -->
+<script>
+  fetch('https://api.github.com/users/dai08srhg/repos')
+    .then(response => response.json())
+    .then(data => {
+      const repoList = document.getElementById('github-achievements');
+      data.forEach(repo => {
+        const li = document.createElement('li');
+        li.innerHTML = `<a href="${repo.html_url}" target="_blank">${repo.name}</a>`;
+        repoList.appendChild(li);
+      });
+    });
+</script>
