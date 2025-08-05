@@ -29,22 +29,23 @@ scripts_head: # optional: include some literal <head> matter, e.g. for page-spec
 scripts_body: # optional: include some literal html just before <body/> tag, e.g. JS initialization; safeHTML-filtered
   - "<!-- -->"
 ---
-###### 職歴
-- [**SUPWAT, inc.**](https://www.supwat.com/) &nbsp; 2023-01 ~ present
-  - 職種: Researcher, MLエンジニア
-  - プロダクトチーム (2025-01 ~ )
-  - 業務委託 ( ~ 2024-12)  
+
+###### ◼︎ 職歴
+- [**SUPWAT, inc.**](https://www.supwat.com/) &nbsp; 2023-01 ~ present  
+   職種: Researcher, MLエンジニア
+  - 2025-01 ~ present : プロダクトチーム 
+  - 2023-01 ~ 2024-12 : 業務委託
 
 ![企業ロゴ](img/log_sup.png)
-- [**MicroAd, inc.**](https://www.microad.co.jp/)  &nbsp; 2020-04 ~ present
-  - 職種: MLエンジニア
-  - データサイエンスユニット・マネージャー ( ~ 2024-11)
-  - 業務委託 (2025-01 ~ )
+- [**MicroAd, inc.**](https://www.microad.co.jp/)  &nbsp; 2020-04 ~ present  
+  職種: MLエンジニア
+  - 2025-01 ~ present : 業務委託
+  - 2020-04 ~ 2024-12 : データサイエンスユニット・マネージャー
 
 ![企業ロゴ](img/log_ma.png)
 
 
-###### 学歴
+###### ◼︎ 学歴
 - 名古屋工業大学大学院 工学研究科 情報工学専攻 (2018-04 ~ 2020-03)  
 博士前期課程修了：修士 (工学)
 - 金沢大学 理工学域 電子情報学類 (2014-04 ~ 2018-03)  
