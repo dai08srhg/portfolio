@@ -1,4 +1,4 @@
 ### Contact
-何か御用がありましたら，FacebookかLinkedinからお願いします．
+何か御用がありましたら，FacebookかLinkedInからお願いします．
 
 ---
