@@ -1,6 +1,6 @@
 ---
 # Common-Defined params
-title: "論文庫"
+title: "文献DB"
 description: "description"
 menu: side # Optional, add page to a menu. Options: main, side, footer
 

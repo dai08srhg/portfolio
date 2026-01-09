@@ -21,7 +21,7 @@ scripts_head: # optional: include some literal <head> matter, e.g. for page-spec
 scripts_body: # optional: include some literal html just before <body/> tag, e.g. JS initialization; safeHTML-filtered
   - "<!-- -->"
 ---
-個人アカウントで運用しているものです.
+個人で運用しているものです.
 {{<qiita link="https://qiita.com/dai08srhg">}}
 最近の投稿⇩
 - [BoTorchで制約条件がブラックボックス関数の場合(Objective, Constrainsの利用)](https://qiita.com/dai08srhg/items/b726fecd2538459a1c2e)
