@@ -35,7 +35,7 @@ scripts_body: # optional: include some literal html just before <body/> tag, e.g
 - **福島大祐**,  古賀諒一,  橋本典明,  黄果葡,  中黒匡人,  高野桂,  中村栄男,  本谷秀堅,  竹内一郎, [「ドメイン敵対的マルチインスタンス学習を用いた悪性リンパ腫のサブタイプ分類」, 研究報告コンピュータビジョンとイメージメディア (CVIM), 2019.](https://ken.ieice.org/ken/paper/20190904N1pi/)
 
 ###### ◼︎ 受賞
-- 2020年度 MI研究奨励賞 (電気通信情報学会　医用画像研究会)
+- [2019年度 MI研究奨励賞](https://www.ieice.org/iss/mi/award_list.html) (電気通信情報学会　医用画像研究会)
 
 ###### ◼︎ 発表
 - 2024-05-29 人工知能学会(JSAI)2024 インダストリアルセッション 「3rd Party Cookie 規制後の広告配信技術」
