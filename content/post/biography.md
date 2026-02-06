@@ -39,6 +39,16 @@ scripts_body: # optional: include some literal html just before <body/> tag, e.g
 <img src="img/logo_go.png" alt="企業ロゴ" style="width: 10%; max-width: 300px; margin-top: -250px; margin-bottom: 40px; margin-right: 40px;">
 </div>
 
+
+- [**MicroAd, inc.**](https://www.microad.co.jp/)  &nbsp; 2020-04 ~ **present**  
+  職種: MLエンジニア
+  - 2025-01 ~ present : 業務委託
+  - 2020-04 ~ 2024-12 : データサイエンスユニット・マネージャー
+
+<div style="text-align: right;">
+<img src="img/logo_microad.png" alt="企業ロゴ" style="width: 15%; max-width: 300px; margin-top: -170px; margin-bottom: 30px; margin-right: 20px;">
+</div>
+
   
 - [**SUPWAT, inc.**](https://www.supwat.com/) &nbsp; 2023-01 ~ 2025-12  
    職種: Researcher, MLエンジニア
@@ -48,15 +58,7 @@ scripts_body: # optional: include some literal html just before <body/> tag, e.g
 <div style="text-align: right;">
 <img src="img/logo_supwat.png" alt="企業ロゴ" style="width: 20%; max-width: 300px; margin-top: -250px; margin-bottom: 30px; margin-right: 40px;">
 </div>
-  
-- [**MicroAd, inc.**](https://www.microad.co.jp/)  &nbsp; 2020-04 ~ **present**  
-  職種: MLエンジニア
-  - 2025-01 ~ present : 業務委託
-  - 2020-04 ~ 2024-12 : データサイエンスユニット・マネージャー
 
-<div style="text-align: right;">
-<img src="img/logo_microad.png" alt="企業ロゴ" style="width: 15%; max-width: 300px; margin-top: -170px; margin-bottom: 30px; margin-right: 20px;">
-</div>
 
 
 ###### ◼︎ 学歴
