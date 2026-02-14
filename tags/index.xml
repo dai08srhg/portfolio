@@ -7,47 +7,5 @@
     <generator>Hugo</generator>
     <language>de</language>
     <atom:link href="https://dai08srhg.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Computer Vision</title>
-      <link>https://dai08srhg.github.io/portfolio/tags/computer-vision/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dai08srhg.github.io/portfolio/tags/computer-vision/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Golang</title>
-      <link>https://dai08srhg.github.io/portfolio/tags/golang/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dai08srhg.github.io/portfolio/tags/golang/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Machine Learning</title>
-      <link>https://dai08srhg.github.io/portfolio/tags/machine-learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dai08srhg.github.io/portfolio/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Material Infomatics</title>
-      <link>https://dai08srhg.github.io/portfolio/tags/material-infomatics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dai08srhg.github.io/portfolio/tags/material-infomatics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Medical Image</title>
-      <link>https://dai08srhg.github.io/portfolio/tags/medical-image/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dai08srhg.github.io/portfolio/tags/medical-image/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>https://dai08srhg.github.io/portfolio/tags/python/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dai08srhg.github.io/portfolio/tags/python/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
