@@ -13,19 +13,15 @@
     </url>
     
     <url>
-      <loc>http://localhost:1313/portfolio/contact/</loc>
-    </url>
-    
-    <url>
-      <loc>http://localhost:1313/portfolio/contents/</loc>
-    </url>
-    
-    <url>
       <loc>http://localhost:1313/portfolio/categories/</loc>
     </url>
     
     <url>
-      <loc>http://localhost:1313/portfolio/contents/github/</loc>
+      <loc>http://localhost:1313/portfolio/contact/</loc>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/portfolio/tech/github/</loc>
     </url>
     
     <url>
@@ -33,7 +29,7 @@
     </url>
     
     <url>
-      <loc>http://localhost:1313/portfolio/contents/qiita/</loc>
+      <loc>http://localhost:1313/portfolio/tech/qiita/</loc>
     </url>
     
     <url>
@@ -41,10 +37,14 @@
     </url>
     
     <url>
-      <loc>http://localhost:1313/portfolio/contents/tech_blog/</loc>
+      <loc>http://localhost:1313/portfolio/tech/</loc>
     </url>
     
     <url>
-      <loc>http://localhost:1313/portfolio/contents/paper_db/</loc>
+      <loc>http://localhost:1313/portfolio/tech/tech_blog/</loc>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/portfolio/tech/paper_db/</loc>
     </url>
     </urlset>

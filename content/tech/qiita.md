@@ -16,10 +16,6 @@ sidebar: "right" # Enable sidebar (on the right side) per page
 #   - "recent"
 #   - "taglist"
 sitemap_hide: false # Do not add this page to the sitemap
-scripts_head: # optional: include some literal <head> matter, e.g. for page-specific JS imports; safeHTML-filtered
-  - "<!---->"
-scripts_body: # optional: include some literal html just before <body/> tag, e.g. JS initialization; safeHTML-filtered
-  - "<!-- -->"
 ---
 個人で運用しているものです.
 {{<qiita link="https://qiita.com/dai08srhg">}}

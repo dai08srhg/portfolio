@@ -16,10 +16,6 @@ toc: true # Enable Table of Contents for specific page
 #   - "recent"
 #   - "taglist"
 sitemap_hide: false # Do not add this page to the sitemap
-scripts_head: # optional: include some literal <head> matter, e.g. for page-specific JS imports; safeHTML-filtered
-  - "<!---->"
-scripts_body: # optional: include some literal html just before <body/> tag, e.g. JS initialization; safeHTML-filtered
-  - "<!-- -->"
 ---
 会社技術ブログなどでの投稿です．  
 最近の投稿⇩

@@ -1,3 +1,4 @@
+title = "D.Fukushima" # ブラウザタブに表示されるサイト名
 baseurl = 'https://dai08srhg.github.io/portfolio/'
 languageCode = "de"
 DefaultContentLanguage = "en"
@@ -78,7 +79,7 @@ theme = "hugo-dpsg"
   [[menu.main]]
     identifier = "TechContents"
     name = "Tech"
-    url = "/contents/"
+    url = "/tech/"
     weight = 2
 
   [[menu.main]]
