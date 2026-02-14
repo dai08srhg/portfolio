@@ -1,6 +1,6 @@
 baseurl = 'https://dai08srhg.github.io/portfolio/'
 languageCode = "de"
-DefaultContentLanguage = "de"
+DefaultContentLanguage = "en"
 
 theme = "hugo-dpsg"
 
@@ -20,6 +20,20 @@ theme = "hugo-dpsg"
   dateformat = "02.01.2006" # Change the format of dates
   favicon = "/img/favicon_kohaku.ico"
   customCSS = ["css/custom.css"]
+  skills = [
+    "Python",
+    "Golang",
+    "GCP", 
+    "AWS",
+    "MySQL",
+    "PostgreSQL",
+    "Hadoop",
+    "Redis", 
+    "Machine Learning",
+    "Computer Vision",
+    "Material Informatics"
+  ]
+  
 
 [pagination]
   pagerSize = 10
@@ -41,7 +55,7 @@ theme = "hugo-dpsg"
   list = "right"  # Configure layout for list pages
   single = false # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["recent", "categories", "social", "taglist"]
+  widgets = ["recent", "categories", "social", "skills"]
   # alternatively "ddg-search" can be used, to search via DuckDuckGo
   # widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
 
@@ -57,13 +71,13 @@ theme = "hugo-dpsg"
 [menu]
   [[menu.main]]
     identifier = "start"
-    name = "Start"
+    name = "Home"
     url = "/"
     weight = 1
 
   [[menu.main]]
     identifier = "TechContents"
-    name = "TechContents"
+    name = "Tech"
     url = "/contents/"
     weight = 2
 

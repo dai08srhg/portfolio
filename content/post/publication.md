@@ -11,11 +11,8 @@ authorbox: false
 thumbnail_alt: "Thumbnail" # alt text for thumbnail image, be screen reader friendly!
 thumbnail_hide_post: false # Hide thumbnail on single post view
 # lead: "ssssssslighted near the title" # Lead text
-tags:
-  - "Machine Learning"
-  - "Computer Vision"
-  - "Medical Image"
-  - "Python"
+# tags:
+#   - "Machine Learning"
 pager: true # Enable pager navigation (prev/next) for specific page
 toc: true # Enable Table of Contents for specific page
 sidebar: "right" # Enable sidebar (on the right side) per page

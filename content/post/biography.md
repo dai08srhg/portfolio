@@ -13,12 +13,8 @@ thumbnail_hide_post: false # Hide thumbnail on single post view
 pager: true # Enable pager navigation (prev/next) for specific page
 toc: true # Enable Table of Contents for specific page
 sidebar: "right" # Enable sidebar (on the right side) per page
-tags:
-  - "Machine Learning"
-  - "Computer Vision"
-  - "Python"
-  - "Golang"
-  - "Material Infomatics"
+# tags:
+#   - 
 # widgets: # Enable sidebar widgets in given order per page
 #   - "search"
 #   - "recent"
@@ -32,7 +28,7 @@ scripts_body: # optional: include some literal html just before <body/> tag, e.g
 
 ###### ◼︎ 職歴
 - [**GO, inc.**](https://goinc.jp/company/) &nbsp; 2026-01 ~ **present**  
-   職種: MLエンジニア
+   職種: ML Engineer
   - 2026-01 ~ present : AI技術開発部  
 
 <div style="text-align: right;">
@@ -41,7 +37,7 @@ scripts_body: # optional: include some literal html just before <body/> tag, e.g
 
 
 - [**MicroAd, inc.**](https://www.microad.co.jp/)  &nbsp; 2020-04 ~ **present**  
-  職種: MLエンジニア
+  職種: ML Engineer
   - 2025-01 ~ present : 業務委託
   - 2020-04 ~ 2024-12 : データサイエンスユニット・マネージャー
 
@@ -51,7 +47,7 @@ scripts_body: # optional: include some literal html just before <body/> tag, e.g
 
   
 - [**SUPWAT, inc.**](https://www.supwat.com/) &nbsp; 2023-01 ~ 2025-12  
-   職種: Researcher, MLエンジニア
+   職種: Researcher, ML Engineer
   - 2025-01 ~ 2025-12 : プロダクトチーム 
   - 2023-01 ~ 2024-12 : 業務委託 
 
