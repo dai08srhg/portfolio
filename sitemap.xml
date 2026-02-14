@@ -13,19 +13,15 @@
     </url>
     
     <url>
-      <loc>https://dai08srhg.github.io/portfolio/contact/</loc>
-    </url>
-    
-    <url>
-      <loc>https://dai08srhg.github.io/portfolio/contents/</loc>
-    </url>
-    
-    <url>
       <loc>https://dai08srhg.github.io/portfolio/categories/</loc>
     </url>
     
     <url>
-      <loc>https://dai08srhg.github.io/portfolio/contents/github/</loc>
+      <loc>https://dai08srhg.github.io/portfolio/contact/</loc>
+    </url>
+    
+    <url>
+      <loc>https://dai08srhg.github.io/portfolio/tech/github/</loc>
     </url>
     
     <url>
@@ -33,7 +29,7 @@
     </url>
     
     <url>
-      <loc>https://dai08srhg.github.io/portfolio/contents/qiita/</loc>
+      <loc>https://dai08srhg.github.io/portfolio/tech/qiita/</loc>
     </url>
     
     <url>
@@ -41,10 +37,14 @@
     </url>
     
     <url>
-      <loc>https://dai08srhg.github.io/portfolio/contents/tech_blog/</loc>
+      <loc>https://dai08srhg.github.io/portfolio/tech/</loc>
     </url>
     
     <url>
-      <loc>https://dai08srhg.github.io/portfolio/contents/paper_db/</loc>
+      <loc>https://dai08srhg.github.io/portfolio/tech/tech_blog/</loc>
+    </url>
+    
+    <url>
+      <loc>https://dai08srhg.github.io/portfolio/tech/paper_db/</loc>
     </url>
     </urlset>
