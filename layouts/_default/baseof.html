@@ -57,11 +57,9 @@
 	{{ range .Site.Params.customJS -}}
 		<script src="{{ . | relURL }}"></script>
 	{{- end }}
+	<script src="{{ .Site.BaseURL }}js/job-duration.js"></script>
+	<script src="{{ .Site.BaseURL }}js/github-repos.js"></script>
 	{{ if .Site.Params.customPartial }}{{ partial .Site.Params.customPartial . }}{{ end }}
 	{{ partial "perpagebody" . }}
 </body>
-</html>    
-    
-    
-<script src="{{ .Site.BaseURL }}js/github-repos.js"></script>
-</body>
+</html>
