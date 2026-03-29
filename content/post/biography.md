@@ -27,7 +27,7 @@ scripts_body: # optional: include some literal html just before <body/> tag, e.g
 ---
 
 ###### ◼︎ 職歴
-- [**GO, inc.**](https://goinc.jp/company/) &nbsp; 2026-01 ~ **present**  
+- [**GO, inc.**](https://goinc.jp/company/) &nbsp; <span class="job-duration" data-start="2026-01" data-end="present">2026-01 ~ present</span>  
    職種: ML Engineer
   - 2026-01 ~ present : AI技術開発部  
 
@@ -36,7 +36,7 @@ scripts_body: # optional: include some literal html just before <body/> tag, e.g
 </div>
 
 
-- [**MicroAd, inc.**](https://www.microad.co.jp/)  &nbsp; 2020-04 ~ **present**  
+- [**MicroAd, inc.**](https://www.microad.co.jp/)  &nbsp; <span class="job-duration" data-start="2020-04" data-end="present">2020-04 ~ present</span>  
   職種: ML Engineer
   - 2025-01 ~ present : 業務委託
   - 2020-04 ~ 2024-12 : データサイエンスユニット・マネージャー
@@ -46,7 +46,7 @@ scripts_body: # optional: include some literal html just before <body/> tag, e.g
 </div>
 
   
-- [**SUPWAT, inc.**](https://www.supwat.com/) &nbsp; 2023-01 ~ 2025-12  
+- [**SUPWAT, inc.**](https://www.supwat.com/) &nbsp; <span class="job-duration" data-start="2023-01" data-end="2025-12">2023-01 ~ 2025-12</span>  
    職種: Researcher, ML Engineer
   - 2025-01 ~ 2025-12 : プロダクトチーム 
   - 2023-01 ~ 2024-12 : 業務委託 
